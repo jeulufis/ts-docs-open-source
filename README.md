@@ -1,5 +1,13 @@
 # Website
 
+![image](https://github.com/jeulufis/ts-docs-open-source/assets/92868937/128b5132-ad5e-4588-994a-cbb85e75f160)
+
+![image](https://github.com/jeulufis/ts-docs-open-source/assets/92868937/91e355b4-d3b1-4bfb-80c3-fba0887a6e25)
+
+
+![image](https://github.com/jeulufis/ts-docs-open-source/assets/92868937/4dcd40af-c6c9-4e92-b176-0527697270b1)
+
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
